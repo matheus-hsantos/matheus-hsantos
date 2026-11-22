@@ -17,4 +17,4 @@ Spring Boot · APIs REST · Docker · integração com APIs de LLM e RAG
 
 ### 📫 Contato
 
-[LinkedIn](.) · matheushs.hsantos@gmail.com
+[LinkedIn](www.linkedin.com/in/matheus-hsantos) · matheushs.hsantos@gmail.com
