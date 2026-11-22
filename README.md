@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá, eu sou o Matheus 👋
 
-<!--
-**matheus-hsantos/matheus-hsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas** construindo minha base em **back-end com Java** e me especializando em **IA aplicada**: sistemas que usam modelos de linguagem para criar produtos de verdade.
 
-Here are some ideas to get you started:
+### 🔭 No que estou trabalhando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[RADIO](https://github.com/leviszz/RADIO)**: jogo narrativo de suspense psicológico e investigação, desenvolvido em dupla.
+- **[Smart-Energy](https://github.com/LuizdSilva/Smart-Energy)**: contribuí com a simulação de um ESP32 comunicando via MQTT.
+
+### 📚 Estudando agora
+
+Java · SQL (PostgreSQL) · Git
+
+### 🎯 Próximos passos
+
+Spring Boot · APIs REST · Docker · integração com APIs de LLM e RAG
+
+### 📫 Contato
+
+[LinkedIn](.) · matheushs.hsantos@gmail.com
